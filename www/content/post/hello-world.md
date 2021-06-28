@@ -5,5 +5,5 @@ draft: false
 ---
 
 This is my first blog post to check if my setup is okay.
-Hi - I'm AJ! I like to read and play tennis.
+Hi - I'm AJ! I like to read books and play tennis.
 
