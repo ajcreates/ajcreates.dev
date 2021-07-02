@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>engineering on AJ Creates</title>
+    <link>https://ajcreates.dev/tags/engineering/</link>
+    <description>Recent content in engineering on AJ Creates</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Jun 2021 18:22:49 -0400</lastBuildDate><atom:link href="https://ajcreates.dev/tags/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://ajcreates.dev/hello-world/</link>
+      <pubDate>Sun, 27 Jun 2021 18:22:49 -0400</pubDate>
+      
+      <guid>https://ajcreates.dev/hello-world/</guid>
+      <description>Hi, I&amp;rsquo;m AJ! This is my first blog post to check if my setup is okay. I hope to write about some of my projects and interests.
+ Tennis - I am a nationally ranked USTA tennis player and I have played for many years. Books - My favorite genres of books is fantasy and history. History - Reading and analyzing history, especially the history of Egypt and Rome, is one of my favorite things to do and I feel like history is just one big mystery to unravel.</description>
+    </item>
+    
+  </channel>
+</rss>
