@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AJ Creates</title>
+    <title>Recent Activity on AJ Creates</title>
     <link>https://ajcreates.dev/</link>
-    <description>Recent content on AJ Creates</description>
+    <description>Recent content in Recent Activity on AJ Creates</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Jun 2021 18:23:09 -0400</lastBuildDate><atom:link href="https://ajcreates.dev/index.xml" rel="self" type="application/rss+xml" />
