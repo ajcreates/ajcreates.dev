@@ -2,7 +2,7 @@
 title: "A Probability Puzzle"
 date: 2021-07-03T10:36:54-04:00
 draft: false
-tags:
+tags: [math, puzzles]
 ---
 # The Puzzle
 
@@ -23,4 +23,4 @@ You are among the 10 people who have a positive result. 5 of the people who test
 
 # Conclusion
 
-The conclusion of this puzzle is shocking, the chance you have the disease if you tested positive is no more than toss of a coin! The test, which in hindsight, seemed sound, with a small margin or error, is actually not that accurate! Also, in Flatland(and in our world too), a mere 50% chance of disease is not enough to make a person quaratine themselves. Another factor would be needed to increase the probability, like people with Lumps have a fever or get a rash. I encourage you to explore these posibilites and find similar intriguing probability puzzles to explore.
+The conclusion of this puzzle is shocking, the chance you have the disease if you tested positive is no more than toss of a coin! The test, which in hindsight, seemed sound, with a small margin or error, is actually not that accurate! Also, in Flatland(and in our world too), a mere 50% chance of disease is not enough to make a person quaratine themselves. Another factor would be needed to increase the probability, like people with Lumps have a fever or get a rash. I encourage you to explore these posibilites and find similar intriguing probability [puzzles](/tags/puzzles/) to explore.
