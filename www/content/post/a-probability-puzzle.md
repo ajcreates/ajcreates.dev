@@ -13,7 +13,6 @@ I discovered an extremely interesting probability puzzle a couple days back whic
 
 So, if you recieve a positive test, what is the chance you have the Lumps?
 
-![](https://ds055uzetaobb.cloudfront.net/chapter/Frame_8534_6-mFkCPr.png?width=1440)
 
 # Solving The Puzzle
 
