@@ -5,6 +5,7 @@ draft: false
 ---
 
 I launched this blog in July to document all my activity and projects over the month. Here is what I have been up to.
+* **Jul 08** | Published [Stop Motion Animation](/stop-motion-animation/) (Day 5)
 * **Jul 06** | Published [Tennis Tuesday](/tennis-tuesday/) (Day 4)
 * **Jul 03** | Published [A Probability Puzzle](/a-probability-puzzle/) (Day 3)
 * **Jul 02** | Published [Start of Summer](/start-of-summer/) (Day 2)
