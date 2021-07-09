@@ -7,7 +7,7 @@ tags: [books, puzzles]
 
 ## The Mysterious Benedict Society
 
-The Mysterious Benedict Society is a book series for children 10 and up, and is written but Trenton Lee Stewart. It is also a television show, which started on June 25, 2021. The books follow the adventures of four orphans, Reynard Muldoon, George "Sticky" Washinton, Kate Wetherall, and Constance Contraire as they try to defeat the nefarious Ledroptha Curtain. They are helped along the way by the mysterious Mr.Benedict and his team of assistants. Through the books, the children struggle against both internal and external challenges.
+The Mysterious Benedict Society is a book series for children 10 and up, and is written but Trenton Lee Stewart. It is also a television show, which started on June 25, 2021. The books follow the adventures of four orphans, Reynard Muldoon, George "Sticky" Washington, Kate Wetherall, and Constance Contraire as they try to defeat the nefarious Ledroptha Curtain. They are helped along the way by the mysterious Mr.Benedict and his team of assistants. Through the books, the children struggle against both internal and external challenges.
 
 ## Book 1: The Mysterious Benedict Society
 
