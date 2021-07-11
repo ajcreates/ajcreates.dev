@@ -2,20 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ajcreates.dev/tags/books/</loc>
-    <lastmod>2021-07-09T09:49:24-04:00</lastmod>
-  </url><url>
-    <loc>https://ajcreates.dev/mysterious-benedict-society/</loc>
-    <lastmod>2021-07-09T09:49:24-04:00</lastmod>
+    <loc>https://ajcreates.dev/tags/history/</loc>
+    <lastmod>2021-07-11T10:58:07-04:00</lastmod>
   </url><url>
     <loc>https://ajcreates.dev/post/</loc>
-    <lastmod>2021-07-09T09:49:24-04:00</lastmod>
-  </url><url>
-    <loc>https://ajcreates.dev/tags/puzzles/</loc>
-    <lastmod>2021-07-09T09:49:24-04:00</lastmod>
+    <lastmod>2021-07-11T10:58:07-04:00</lastmod>
   </url><url>
     <loc>https://ajcreates.dev/tags/</loc>
-    <lastmod>2021-07-09T09:49:24-04:00</lastmod>
+    <lastmod>2021-07-11T10:58:07-04:00</lastmod>
+  </url><url>
+    <loc>https://ajcreates.dev/tags/travel/</loc>
+    <lastmod>2021-07-11T10:58:07-04:00</lastmod>
+  </url><url>
+    <loc>https://ajcreates.dev/trip-to-irvington/</loc>
+    <lastmod>2021-07-11T10:58:07-04:00</lastmod>
+  </url><url>
+    <loc>https://ajcreates.dev/tags/books/</loc>
+    <lastmod>2021-07-09T09:50:21-04:00</lastmod>
+  </url><url>
+    <loc>https://ajcreates.dev/mysterious-benedict-society/</loc>
+    <lastmod>2021-07-09T09:50:21-04:00</lastmod>
+  </url><url>
+    <loc>https://ajcreates.dev/tags/puzzles/</loc>
+    <lastmod>2021-07-09T09:50:21-04:00</lastmod>
   </url><url>
     <loc>https://ajcreates.dev/tags/code/</loc>
     <lastmod>2021-07-08T17:51:41-04:00</lastmod>
@@ -51,12 +60,6 @@
     <lastmod>2021-06-28T14:21:01-04:00</lastmod>
   </url><url>
     <loc>https://ajcreates.dev/hello-world/</loc>
-    <lastmod>2021-07-02T11:01:36-04:00</lastmod>
-  </url><url>
-    <loc>https://ajcreates.dev/tags/history/</loc>
-    <lastmod>2021-07-02T11:01:36-04:00</lastmod>
-  </url><url>
-    <loc>https://ajcreates.dev/tags/travel/</loc>
     <lastmod>2021-07-02T11:01:36-04:00</lastmod>
   </url>
 </urlset>
