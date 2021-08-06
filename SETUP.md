@@ -27,3 +27,6 @@ This will build the docs/ site (HTML/CSS/JS content) from the markdown in your w
 % cd www
 % hugo -D
 ```
+
+Always build, then push to GitHub to ensure latest blog changes show up in [my blog](https://ajcreates.dev).
+

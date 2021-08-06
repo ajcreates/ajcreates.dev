@@ -5,6 +5,7 @@ draft: false
 ---
 
 I launched this blog in July to document all my activity and projects over the month. Here is what I have been up to.
+* **Aug 6**  | [An Unexpected Hanging](/an-unexpected-hanging/) (Day 9) 
 * **Jul 17** | [Tournament Day](/tournament-day/) (Day 8)
 * **Jul 11** | [Trip To Irvington](/trip-to-irvington/) (Day 7)
 * **Jul 09** | [Mysterious Benedict Society](/mysterious-benedict-society/) (Day 6)
